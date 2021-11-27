@@ -26,7 +26,7 @@
                 <strong class="discord-invite-count">Y,YYY Members</strong>
             </div>
         </div>
-        <a type="button" class="discord-invite-join-button" href="https://discord.gg/INVITE-CODE">
+        <a type="button" class="discord-invite-join-button" href="https://discord.gg/4HX9RneUjt">
             Join
         </a>
     </div>
