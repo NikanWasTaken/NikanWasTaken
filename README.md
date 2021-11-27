@@ -1,5 +1,5 @@
 <h1><img src="https://cdn.discordapp.com/emojis/900249317963624509.gif" width="30"/> Hey there, I'm Nikan</h1>
-<img align="right" alt="Nikan's World" src="https://discordapp.com/api/guilds/757268973674037315/widget.png?style=banner2" />
+<img align="center" alt="Nikan's World" src="https://discordapp.com/api/guilds/757268973674037315/widget.png?style=banner2" />
 
 - 🗣 He/They
 - 🎮 I love playing games like Minecraft
