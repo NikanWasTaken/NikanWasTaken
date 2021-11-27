@@ -19,9 +19,6 @@
   <a href="https://discord.c99.nl/widget/theme-4/757268659239518329.png"><img src="https://discord.c99.nl/widget/theme-4/757268659239518329.png"></a>
   <br>
   <br>
-  <a href="https://discord.gg/4HX9RneUjt">
-    <img src="https://cdn.discordapp.com/attachments/870637449158742057/891026117060878376/banner.gif" alt="Nikan's World Banner" width="150"/>
-   </a>
 </p>
 
 
