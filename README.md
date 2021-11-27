@@ -2,7 +2,7 @@
 
 ## 🌱 Social Media
 
-<h6><img src="https://cdn.discordapp.com/emojis/808891185677860864" width="15"/> Discord Server</h6>
+- [Discord Server](https://discord.gg/e)
 <img src="https://discordapp.com/api/guilds/757268973674037315/widget.png?style=banner2" alt="Discord Banner 2"/>
 
 
