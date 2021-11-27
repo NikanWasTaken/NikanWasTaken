@@ -4,14 +4,14 @@
 - 🎮 I love playing games like Minecraft
 - 🎶 Listening to remix musics
 
-<img align="right" alt="Nikan's World" src="https://discordapp.com/api/guilds/757268973674037315/widget.png?style=banner2" />
-
 <p>
     <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
     <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 ## 🌱 Social Media
+
+<img align="right" alt="Nikan's World" src="https://discordapp.com/api/guilds/757268973674037315/widget.png?style=banner2" />
 
 - [Profile](https://nikanwastaken.carrd.co/)
 - [Discord Server](https://discord.gg/4HX9RneUjt)
