@@ -11,12 +11,11 @@
 
 ## 🌱 Social Media
 
-<img align="right" alt="Nikan's World" src="https://discord.com/api/guilds/757268973674037315/widget.json" />
+<img align="right" alt="Nikan's World" src="https://discord.com/widget?id=757268973674037315&theme=dark" />
 
 - [Profile](https://nikanwastaken.carrd.co/)
 - [Discord Server](https://discord.gg/4HX9RneUjt)
 - [Reddit](https://www.reddit.com/u/NikanWasTaken)
-
 
 
 
