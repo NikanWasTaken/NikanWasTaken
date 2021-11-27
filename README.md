@@ -3,5 +3,5 @@
 <img src="https://discordapp.com/api/guilds/757268973674037315/widget.png?style=banner2" alt="Discord Banner 2"/>
 
 <a href="https://github.com/nikanwastaken">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikanwastaken&theme=buefy&layout=compact" />
+  <img height="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikanwastaken&theme=dark&layout=compact" />
 </a>
