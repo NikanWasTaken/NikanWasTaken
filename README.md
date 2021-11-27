@@ -2,7 +2,7 @@
 
 - 🗣 He/They
 - 🎮 I love playing games like Minecraft
-- 🎶 Listening to remix musics
+- 🎶 And listening to remix musics
 
 
 ## 🌱 Social Media
