@@ -11,7 +11,7 @@
 - [Discord Server](https://discord.gg/4HX9RneUjt) 
 - [Reddit](https://www.reddit.com/u/NikanWasTaken)
 
-<h2><img src="https://cdn.discordapp.com/emojis/746513584321986732.gif" width="30"/> Discord Stats</h2>
+<h2><img src="https://cdn.discordapp.com/emojis/746513584321986732.gif" width="25"/> Discord Stats</h2>
 
 <p align="center">
   <br>
