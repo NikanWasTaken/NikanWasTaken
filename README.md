@@ -11,6 +11,7 @@
 - [Discord Server](https://discord.gg/4HX9RneUjt) 
 - [Reddit](https://www.reddit.com/u/NikanWasTaken)
 
+## Discord Stats
 
 <p align="center">
   <br>
@@ -18,8 +19,8 @@
   <a href="https://discord.c99.nl/widget/theme-4/757268659239518329.png"><img src="https://discord.c99.nl/widget/theme-4/757268659239518329.png"></a>
   <br>
   <br>
-  <a href="https://discord.gg/r2KwDD22Hj">
-    <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="bkr lounge" width="150"/>
+  <a href="https://discord.gg/4HX9RneUjt">
+    <img src="https://cdn.discordapp.com/attachments/870637449158742057/891026117060878376/banner.gif" alt="Nikan's World Banner" width="150"/>
    </a>
 </p>
 
