@@ -11,7 +11,7 @@
 
 ## 🌱 Social Media
 
-<img align="right" alt="Nikan's World" src="https://discord.com/widget?id=757268973674037315&theme=dark" />
+<iframe src="https://discord.com/widget?id=757268973674037315&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 - [Profile](https://nikanwastaken.carrd.co/)
 - [Discord Server](https://discord.gg/4HX9RneUjt)
