@@ -16,7 +16,7 @@
 <p align="center">
   <br>
   <br>
-      <a href="https://discord.gg/4HX9RneUjt"><img src="http://invidget.switchblade.xyz/4HX9RneUjt"/></a>
+      <a href="https://discord.gg/4HX9RneUjt"><img src="http://invidget.switchblade.xyz/4HX9RneUjt" width="390"/></a>
   <a href="https://discord.c99.nl/widget/theme-4/757268659239518329.png"><img src="https://discord.c99.nl/widget/theme-2/757268659239518329.png"></a>
   <br>
   <br>
