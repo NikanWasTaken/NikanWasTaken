@@ -21,11 +21,7 @@
   <br>
 </p>
 <p align="center">
-  <br>
-  <br>
       <a href="https://discord.gg/4HX9RneUjt"><img src="http://invidget.switchblade.xyz/4HX9RneUjt"/></a>
-  <br>
-  <br>
 </p>
 
 
