@@ -4,7 +4,6 @@
     </a>
 </h3>
 
----
 
 ## About me 👋
 
@@ -12,7 +11,6 @@
 
 Hey, I am Nikan. Loves to experience new things. I play games such as minecraft. I like remix to listen to remix musics and mix playlists.
 
----
 
 ## What I use ⚙️
 
