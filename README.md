@@ -1,6 +1,6 @@
-<h3 align="left">
+<h3 align="center">
     <a href="#"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=B4A8F1&lines=Hello!;Hello+there!;I+am+Nikan!&size=25" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=4F8CC9&lines=Hello!;Hello+there!;I+am+Nikan!&center=true&size=25" />
     </a>
 </h3>
 
@@ -24,8 +24,6 @@ I usually use node.js when I'm building things, such as discord bots. I use mong
 
 
 ## Statistics 🛡
-
-<img align="left" style="padding=0;width=30%;" src="https://gh-stats.didinele.me/api/?username=NikanWasTaken&show_icons=true&title_color=B4A8F1&text_color=B4A8F1&bg_color=00000000&hide_border=true&icon_color=B4A8F1&hide_title=false&count_private=true"/>
-
+<img align="left" style="padding=0;width=50%;" src="https://gh-stats.didinele.me/api/?username=NikanWasTaken&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=false&count_private=true"/>
 
 
