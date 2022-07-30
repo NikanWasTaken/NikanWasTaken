@@ -1,3 +1,9 @@
+<h3 align="right">
+    <a href="#"> 
+    <img src="https://readme-typing-svg.herokuapp.com?color=B4A8F1&lines=Hello!;Hello+there!+I+am+Nikan!&size=30" />
+    </a>
+</h3>
+
 <h1><img src="https://cdn.discordapp.com/emojis/900249317963624509.gif" width="30"/> Hey there, I'm Nikan</h1>
 
 - 🗣 He/They
