@@ -1,4 +1,4 @@
-<h3 align="right">
+<h3 align="left">
     <a href="#"> 
     <img src="https://readme-typing-svg.herokuapp.com?color=B4A8F1&lines=Hello!;Hello+there!+I+am+Nikan!&size=30" />
     </a>
