@@ -22,6 +22,9 @@ I usually use node.js when I'm building things, such as discord bots. I use mong
 
 
 ## Statistics 🛡
-<img align="left" style="padding=0;width=50%;" src="https://gh-stats.didinele.me/api/?username=NikanWasTaken&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=false&count_private=true"/>
+<img align="left" style="padding=0;width=50%;" src="https://gh-stats.didinele.me/api/top-langs/?username=NikanWasTaken&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
+<img align="left" style="padding=0;width=50%;" src="https://gh-stats.didinele.me/api/?username=NikanWasTaken&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/>
+
+<img align="center" style="padding=0;" src="https://raw.githubusercontent.com/NikanWasTaken/NikanWasTaken/snake/github-contribution-grid-snake.svg"/>
 
 
