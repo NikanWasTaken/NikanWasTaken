@@ -11,7 +11,6 @@
 
 Hey, I am Nikan. Loves to experience new things. I play games such as minecraft. I like remix to listen to remix musics and mix playlists.
 
-
 ## What I use ⚙️
 
 I usually use node.js when I'm building things, such as discord bots. I use mongoDB as my database. I also like making html profiles.
