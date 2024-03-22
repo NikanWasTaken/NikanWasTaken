@@ -9,7 +9,7 @@
 
 **Pronounces - He/Him**
 
-Hey, I am Nikan. Loves to experience new things. I play games such as minecraft. I like to listen to remix musics and mix playlists.
+Hey, I am Nikan. Loves to experience new things. Listening to music, playing games and photography are my hobbies 📸
 
 ## What I use ⚙️
 
